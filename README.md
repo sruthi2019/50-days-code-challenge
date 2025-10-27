@@ -1,2 +1,2 @@
-# 50-days-code-challenge
+# 20-days-code-challenge
 
